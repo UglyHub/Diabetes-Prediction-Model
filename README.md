@@ -127,4 +127,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn shap
 
 ---
 
-**Author:**
+**Author: Chiderah Onwumelu**
